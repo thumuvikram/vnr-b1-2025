@@ -13,3 +13,11 @@ BASH
 SQL
 PLSQL
 TSQL
+===
+Telugu
+Hindi
+English
+Urdu
+Tamil
+Malyalam
+Kannada
